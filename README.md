@@ -15,7 +15,7 @@ source venv/bin/activate
 ```
 3. Flask 설치
 ```bash
-sudo apt-get install python3-flask
+pip insall Flask
 ```
 4. 프로젝트 폴더 만들기   
 ```bash
