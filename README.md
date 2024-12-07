@@ -268,7 +268,7 @@ webapp/
 ## 📚 참고 자료
 - [Flask 공식 문서](https://flask.palletsprojects.com/)
 - [Python 가상환경 설명서](https://docs.python.org/3/tutorial/venv.html)
-- [라즈베리파이 한글 설정 가이드](https://www.raspberrypi.org/documentation/computers/os.html)
+- [CSS 컬러코드](https://www.w3schools.com/cssref/css_colors.php)
 
 > **주의사항**: 
 > - 가상환경을 활성화한 상태에서 작업해야 해요.
