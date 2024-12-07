@@ -61,8 +61,8 @@ webapp/
 | 파일명 | 설명 |
 |--------|------|
 | [app.py](./src/webapp/app.py) | Flask 실행파일 |
-| [index.html](./src/webapp/templates/index.html) |  |
-| [style.css](./src/webapp/static/style.css) |  |
+| [index.html](./src/webapp/templates/index.html) | HTML 템플릿  |
+| [style.css](./src/webapp/static/style.css) | CSS 스타일  |
 
 ## 🚀 시작하기
 1. 라즈베리파이 부팅하기
